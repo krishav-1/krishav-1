@@ -70,7 +70,6 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/krishav-kumar-97326b310/"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=BB86FC" /></a>
-<a href="https://www.instagram.com/krishav._.kumar/"><img src="https://img.shields.io/badge/Instagram-6A0DAD?style=for-the-badge&logo=instagram&logoColor=BB86FC" /></a>
 <br/>
 <img src="https://img.shields.io/badge/STATUS-ENCRYPTED-9D4EDD?style=for-the-badge&logo=hackaday&logoColor=white" />
 <img src="https://img.shields.io/badge/ROOT_ACCESS-PENDING-6A0DAD?style=for-the-badge&logo=linux&logoColor=white" />
