@@ -83,6 +83,5 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d4edd,50:6a0dad,100:2b0a4d&height=120&section=footer" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=krishav-1&style=flat-square&color=9D4EDD&label=Connections+traced" alt="profile views" />
 
 </div>
