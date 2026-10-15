@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Incoming **Computer Science** student at **NYU Abu Dhabi** (starting August)
+- 🎓 **Computer Science** student at **NYU Abu Dhabi** (starting August)
 - 🔐 Aspiring to specialize in **Cybersecurity**
 - 🌱 Currently learning the fundamentals of programming, systems, and security
 - 💬 Ask me about my journey into CS and infosec — always happy to chat
